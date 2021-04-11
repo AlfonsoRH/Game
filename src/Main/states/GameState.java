@@ -1,6 +1,6 @@
-package states;
-import util.KeyHandler;
-import util.MouseHandler;
+package Main.states;
+import Main.util.KeyHandler;
+import Main.util.MouseHandler;
 
 import java.awt.Graphics2D;
 
